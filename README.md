@@ -1,10 +1,10 @@
 # Basic Score Counter Project
 
-This basic score counter program was done in an attempt to match the project *Score Keeper CodeAlong* in the Udemy course *The Web Developer Bootcamp* by Colt Steele as closely as possible without viewing any of the actual code.
+This basic score counter program was done in an attempt to match the project: *Score Keeper CodeAlong* in the Udemy course *The Web Developer Bootcamp* by Colt Steele as closely as possible without viewing any of the actual code.
 I did this project in an attempt to gain a better understanding of DOM and how to better use Javascript in conjunction with HTML and CSS. Some of the specific things I worked on include:
 
 - DOM manipulation through the selection of Id and class as well as the changing of text
-- Higher complexity event handling by both adding and removing event listeners as well as everything that goes along with that
+- Higher complexity event handling by both adding and removing event listeners
 - Javascript specific state and variable management
 - Class manipulation
 
